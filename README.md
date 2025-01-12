@@ -1,2 +1,2 @@
 # Election-Dataset-Model
-Model that predicts the outcome of an election based on county features
+Models that predicts the outcome of an election in a county based on county features(educated percentages, income percentages, etc.) This notebook compares a KNN and Decision Tree.
